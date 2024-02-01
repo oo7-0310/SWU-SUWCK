@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "SWU-SWUCK(슈슉)",
+    "description": "서울여자대학교 주요 사이트 바로가기 프로그램 '슈슉'입니다.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup/popup.html"
+    },
+    "icons": {
+        "48": "image/SWU-SWUCK-48.PNG",
+        "128": "image/SWU-SWUCK-128.png"
+    }
+  }
